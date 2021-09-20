@@ -9,7 +9,7 @@
 * 🗣 Slides de palestras [aqui](https://www.slideshare.net/LetticiaNicoli)
 * 🔭 Adepta às boas práticas ágeis e novas tecnologias
 * 💜 Busco compartilhar meus conhecimentos na área para empoderar mais e mais pessoas
-* ☕️ Coffee lover (amo um cafezin)
+* ☕️ Coffee lover ([amo um cafezin](https://github.com/LetticiaNicoli/awesome-cafezin))
 * 🧦 Fun socks enthusiast, espia essa [thread](https://twitter.com/LetticiaNicoli/status/1122217982816673793)
 * ❓  Quer me mandar alguma pergunta? Abre uma issue aqui: [![Send your question](https://badgen.net/github/open-issues/LetticiaNicoli/LetticiaNicoli?color=1dd3d6)](https://github.com/LetticiaNicoli/LetticiaNicoli/issues)
 
