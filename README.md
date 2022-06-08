@@ -4,8 +4,8 @@
 
 
 * 🏆 Microsoft MVP - Developer Technologies
-* 👩🏻‍💻 Senior Software Engineer [@Nubank](https://github.com/nubank)
-* 🖐 Participo da organização do [High5Devs](http://high5devs.com/)
+* 👩🏻‍💻 Lead Software Engineer [@Nubank](https://github.com/nubank)
+* 🖐 Participo da organização do [High5Devs](http://high5devs.com/) e [@Irmãs da TI](https://instagram.com/irmasdati)
 * 🗣 Slides de palestras [aqui](https://www.slideshare.net/LetticiaNicoli)
 * 🔭 Adepta às boas práticas ágeis e novas tecnologias
 * 💜 Busco compartilhar meus conhecimentos na área para empoderar mais e mais pessoas
