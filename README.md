@@ -1,19 +1,18 @@
-## Olar! Sou Letticia Nicoli 👋
+## Oie! Sou Letticia Nicoli 👋
 
 [![Twitter](https://img.shields.io/twitter/follow/LetticiaNicoli?style=flat&color=1dd3d6)](https://twitter.com/LetticiaNicoli)
 
 
 * 🏆 Microsoft MVP - Developer Technologies
-* 👩🏻‍💻 Lead Software Engineer [@Nubank](https://github.com/nubank)
+* 🎤 Women Techmakers [Ambassador](https://developers.google.com/womentechmakers/ambassadors)
+* 👩🏻‍💻 Engineering Tech Manager [@Nubank](https://github.com/nubank)
 * 🖐 Participo da organização do [High5Devs](http://high5devs.com/) e [Irmãs da TI](https://instagram.com/irmasdati)
-* 🗣 Slides de palestras [aqui](https://www.slideshare.net/LetticiaNicoli)
 * 🔭 Adepta às boas práticas ágeis e novas tecnologias
 * 💜 Busco compartilhar meus conhecimentos na área para empoderar mais e mais pessoas
+* 🗣 Slides de palestras [aqui](https://www.slideshare.net/LetticiaNicoli)
 * ☕️ Coffee lover ([amo um cafezin](https://github.com/LetticiaNicoli/awesome-cafezin))
 * 🧦 Fun socks enthusiast, espia essa [thread](https://twitter.com/LetticiaNicoli/status/1122217982816673793)
 * ❓  Quer me mandar alguma pergunta? Abre uma issue aqui: [![Send your question](https://badgen.net/github/open-issues/LetticiaNicoli/LetticiaNicoli?color=1dd3d6)](https://github.com/LetticiaNicoli/LetticiaNicoli/issues)
-
-![Github stats](https://github-readme-stats.vercel.app/api/?username=LetticiaNicoli&count_private=true&show_icons=true&theme=buefy)
 
 ### Let's connect ? 🤝
 
